@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Under My Thumb [CD].mp3";		
+f[2]	= "02 When the Whip Comes Down [CD].mp3";		
+f[3]	= "03 Let's Spend the Night Together [CD].mp3";		
+f[4]	= "04 Shattered [CD].mp3";		
+f[5]	= "05 Neighbours [CD].mp3";		
+f[6]	= "06 Black Limousine [CD].mp3";		
+f[7]	= "07 Just My Imagination [CD].mp3";		
+f[8]	= "08 Twenty Flight Rock [CD].mp3";		
+f[9]	= "09 Going to a Go Go [CD].mp3";		
+f[10]	= "10 Let Me Go [CD].mp3";		
+f[11]	= "11 Time Is on My Side [CD].mp3";		
+f[12]	= "12 Beast of Burden [CD].mp3";		
+f[13]	= "13 Waiting on a Friend [CD].mp3";		
+f[14]	= "14 Let It Bleed [CD].mp3";		
