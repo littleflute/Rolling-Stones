@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 You Can't Always Get What You Want [CD].mp3";		
+f[2]	= "02 Band Introductions [CD].mp3";		
+f[3]	= "03 Happy Birthday Keith [CD].mp3";		
+f[4]	= "04 Little T&A [CD].mp3";		
+f[5]	= "05 Tumbling Dice [CD].mp3";		
+f[6]	= "06 She's So Cold [CD].mp3";		
+f[7]	= "07 Hang Fire [CD].mp3";		
+f[8]	= "08 Miss You [CD].mp3";		
+f[9]	= "09 Honky Tonk Women [CD].mp3";		
+f[10]	= "10 Brown Sugar [CD].mp3";		
+f[11]	= "11 Start Me Up [CD].mp3";		
+f[12]	= "12 Jumping Jack Flash [CD].mp3";		
+f[13]	= "13 (I Can't Get No) Satisfaction [CD].mp3";		
